@@ -1,0 +1,113 @@
+html {
+  min-height: 100%;
+  background-color: #1a1a1a;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #1a1a1a;
+  color: #000000;
+}
+
+.App {
+  text-align: center;
+  padding: 2rem;
+  max-width: 800px;
+  margin: 0 auto;
+  background-image: "frontend-engine-main/src/Steam_h.jpg";
+  background-size: cover;
+  background-position: center;
+}
+
+h1 {
+  color: #66c0f4;
+  margin-bottom: 1rem;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+input {
+  width: 100%;
+  max-width: 400px;
+  padding: 0.5rem;
+  margin-bottom: 1rem;
+  border: 1px solid #0d6efd;
+  border-radius: 5px;
+  color: #ffffff;
+  background-color: #1a1a1a;
+}
+
+input::placeholder {
+  color: #888;
+}
+
+button {
+  padding: 0.5rem 1rem;
+  border: 1px solid #0d6efd;
+  border-radius: 5px;
+  background-color: #0d6efd;
+  color: #000000;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+button:hover {
+  background-color: #155de1;
+  color: #ffffff; /* Change the color of the text to white when the button is hovered */
+}
+
+.recommendations {
+  margin-top: 2rem;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  padding: 0.5rem;
+  border: 1px solid #0d6efd;
+  border-radius: 5px;
+  margin-bottom: 0.5rem;
+  background-color: #2a2a2a;
+}
+
+.error {
+  color: #ff0000;
+}
+
+@keyframes loading {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.5;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+.loading {
+  animation: loading 1.5s infinite;
+}
+
+.game-item {
+  color: #ffffff;
+}
+
+.recommended-game {
+  color: #ffffff;
+}

@@ -1,0 +1,38 @@
+atomicwrites==1.4.0
+attrs @ file:///opt/conda/conda-bld/attrs_1642510447205/work
+certifi @ file:///C:/Windows/TEMP/abs_e9b7158a-aa56-4a5b-87b6-c00d295b01fanefpc8_o/croots/recipe/certifi_1655968940823/work/certifi
+charset-normalizer==3.1.0
+click @ file:///C:/ci/click_1646056799533/work
+colorama @ file:///tmp/build/80754af9/colorama_1607707115595/work
+Flask @ file:///opt/conda/conda-bld/flask_1648041541647/work
+Flask-Cors @ file:///tmp/build/80754af9/flask-cors_1609957731919/work
+Flask-SQLAlchemy @ file:///home/conda/feedstock_root/build_artifacts/flask-sqlalchemy_1616102249273/work
+idna==3.4
+iniconfig @ file:///home/linux1/recipes/ci/iniconfig_1610983019677/work
+itsdangerous @ file:///tmp/build/80754af9/itsdangerous_1621432558163/work
+Jinja2 @ file:///opt/conda/conda-bld/jinja2_1647436528585/work
+joblib==1.2.0
+lightfm==1.17
+MarkupSafe @ file:///C:/ci/markupsafe_1654489871526/work
+numpy==1.24.2
+packaging @ file:///tmp/build/80754af9/packaging_1637314298585/work
+pandas==1.5.3
+pluggy @ file:///C:/ci/pluggy_1648042776090/work
+psycopg2 @ file:///C:/ci/psycopg2_1612298803839/work
+psycopg2-binary==2.9.5
+py @ file:///opt/conda/conda-bld/py_1644396412707/work
+pyparsing @ file:///tmp/build/80754af9/pyparsing_1635766073266/work
+pytest==7.1.2
+python-dateutil==2.8.2
+python-dotenv @ file:///home/conda/feedstock_root/build_artifacts/python-dotenv_1662230030282/work
+pytz==2023.2
+requests==2.28.2
+scikit-learn==1.2.2
+scipy==1.10.1
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+SQLAlchemy @ file:///D:/bld/sqlalchemy_1649751693835/work
+threadpoolctl==3.1.0
+tomli @ file:///tmp/build/80754af9/tomli_1637314251069/work
+urllib3==1.26.15
+Werkzeug @ file:///opt/conda/conda-bld/werkzeug_1645628268370/work
+wincertstore==0.2

@@ -1,0 +1,18 @@
+.chatBotContainer {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+  }
+    
+  .formContainer {
+    width: 400px;
+    height: auto;
+    position: absolute;
+    bottom: 110px;
+    right: 0;
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 20px;
+  }
+  

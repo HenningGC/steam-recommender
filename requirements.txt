@@ -1,0 +1,15 @@
+importlib-metadata==6.0.0
+ipykernel==6.20.2
+ipython==8.8.0
+matplotlib==3.6.3
+matplotlib-inline==0.1.6
+mpmath==1.2.1
+mypy-extensions==0.4.3
+numpy==1.23.5
+packaging==23.0
+pandas==1.5.3
+PyYAML==5.4.1
+scikit-learn==1.0.2
+scipy==1.10.0
+recommendation_model==1.0.0
+data_preprocessing==1.0.0
