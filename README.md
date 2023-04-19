@@ -15,7 +15,7 @@ A frontend for users to input their user ID and receive game recommendations
 A backend to deploy the model and fetch recommendations
 <p>
 Frontend integration with the OpenAI API.
-<p>
+
 ## Table of Contents
 Installation
 <p>
