@@ -3,21 +3,36 @@ This project provides a recommendation engine for Steam games. It uses various m
 
 ## Features
 An API to extract the data.
+<p>
 Data preparation
+<p>
 Data preprocessing
+<p>
 Data modeling (using LightFM with BPR Loss and Warp Loss, and SVD)
+<p>
 A frontend for users to input their user ID and receive game recommendations
+<p>
 A backend to deploy the model and fetch recommendations
+<p>
 Frontend integration with the OpenAI API.
+<p>
 ## Table of Contents
 Installation
+<p>
 Usage
+<p>
 API
+<p>
 Data Preparation
+<p>
 Data Preprocessing
+<p>
 Data Modeling
+<p>
 Frontend
+<p>
 Backend
+<p>
 OpenAI API Integration
 
 ## Installation
@@ -27,7 +42,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/JPBP22/steam-recommendation-engine.git
+git clone https://github.com/HenningGC/steam-recommendation-engine.git
 Navigate to the project directory:
 
 bash
